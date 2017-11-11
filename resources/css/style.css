@@ -1,34 +1,40 @@
 h1 {
-font-family: Verdana;
-font-weight: bold normal;
-font-size: 50px:
-color: white;
-text-align: center;
+  text-align: center;
+  color: White;
+  font-family: Verdana;
+  font-weight: bold normal;
+  font-size: 50px;
 }
 
 h2 {
-font-family: Verdana;
-font-weight: 300;
-font-size: 42px:
-color: white;
-text-align: center;
+  text-align: center;
+  color: White;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
 }
 
 h3 {
-font-family: Verdana;
-font-size: 21px:
-color: gray;
-text-align: center;
+  color: White;
+  text-align: center;
+  font-family: Verdana;
+  font-size: 21px;
 }
 
 h4 {
-font-family: Verdana;
-font-size: 21px:
-color: gray;
-text-align: right;
+  color: Gray;
+  text-align: right;
+  font-size: 21px;
+  font-family: Verdana;
+
 }
 
 p {
   color: Aquamarine;
   text-align: center;
+  font-family: Verdana;
+}
+
+body {
+  background-color: Black;
 }
